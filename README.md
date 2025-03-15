@@ -20,12 +20,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Recipe Page screenshot](./assets/Recipe-page-desktop.png)
+![Recipe Page screenshot desktop](./assets/Recipe-page-desktop.png)
+![Recipe Page screenshot Mobile](./assets/Recipe-page-mobile.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Recipe page](https://gugupx.github.io/Recipe-page-Frontend-mentor/)
 
 ## My process
 
@@ -37,51 +38,45 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I’m using what I’ve learned in HTML and CSS to fully solidify the content in my mind, and this project served as a way to refresh basic concepts that I had overlooked. I managed to finish it in 12 hours, and for my first project, I’m happy with the result.
 
-To see how you can add code snippets, see below:
+I had a bit of trouble adding this table because I didn't know how to make it horizontal, but after some research, I managed to figure it out.:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+  <table class="table-nutition">
+                    <tr>
+                        <th>Calories</th>
+                        <td>277Kcal</td>
+                    </tr>
+                    <tr>
+                        <th>Carbs</th>
+                        <td>0g</td>
+                    </tr>
+                    <tr>
+                        <th>Fat</th>
+                        <td>20g</td>
+                    </tr>
+                    <tr>
+                        <th>Protein</th>
+                        <td>22g</td>
+                    </tr>
+                </table>
 ```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I'm learning Frontend to strengthen the concepts and enter programming in a more relaxed way, but I have a strong interest in Backend, probably due to my autism lol.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [W3schools](https://www.w3schools.com/html/html_tables.asp) - o w3schools me ajudou muito com os problemas da table recomendo muito
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@GuguPx](https://www.frontendmentor.io/profile/GuguPx)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I would like to thank W3Schools a lot, which helped me a lot, and ChatGPT, which helped me look at my project with a different perspective.
+P.S.: I didn’t use any code from ChatGPT or anything like that, I only used it to ask some questions about certain properties.
